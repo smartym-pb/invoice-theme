@@ -1,0 +1,80 @@
+{
+  "invoiceNumber": "1-SK2-B-12",
+  "agreement": "C0000-A-00",
+  "periodMonth": "October",
+  "date": "November 3, 2020",
+  "billFrom": [
+    "Company Name",
+    "Represented by Eleanor Pena",
+    "",
+    "Address: 3517 W. Gray St. Utica, Pennsylvania 57867",
+    "",
+    "E-mail: jackson.graham@example.com",
+    "NIP: 23423452435",
+    "",
+    "Bank:  Millennium S.A. (Warsaw, Poland)",
+    "Account in USD: 34 3512 5367 0000 0003 3400 0000",
+    "IBAN: HJ34 2542 3251 0000 0003 0000 0000",
+    "SWIFT: IURHFJK"
+  ],
+  "billTo": [
+    "Sole Entrepreneur",
+    "Name Surname",
+    "",
+    "Legal address: 2972 Westheimer Rd. Santa Ana, Illinois 85486",
+    "Individual Tax Number (EGRPOU): 23452135",
+    "",
+    "Bank: UNIVERSAL BANK JSC",
+    "Account IBAN: YU29837908237498027349807",
+    "SWIFT code: YIUOYIUGI"
+  ],
+  "items": [
+    {
+      "title": "Item 1",
+      "hours": "12.00",
+      "price": "$99.00"
+    },
+    {
+      "title": "Item 1",
+      "hours": "12.00",
+      "price": "$99.00"
+    },
+    {
+      "title": "Item 1",
+      "hours": "12.00",
+      "price": "$99.00"
+    },
+    {
+      "title": "Item 1",
+      "hours": "12.00",
+      "price": "$99.00"
+    },
+    {
+      "title": "Total",
+      "hours": "24.00",
+      "price": "$999.00",
+      "type": "total"
+    },
+    {
+      "title": "",
+      "hours": "Discount (for bank fee)",
+      "price": "-",
+      "type": "extra"
+    },
+    {
+      "title": "",
+      "hours": "VAT reverse-charged",
+      "price": "-",
+      "type": "extra"
+    },
+    {
+      "title": "",
+      "hours": "Invoice Total",
+      "price": "$120.00",
+      "type": "total"
+    }
+  ],
+  "notes": [
+    "-"
+  ]
+}

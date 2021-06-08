@@ -1,0 +1,13 @@
+{
+	"index": "index.hbs",
+	"partials": {
+		"basics": "partials/basics.hbs",
+		"work": "partials/work.hbs",
+		"education": "partials/education.hbs",
+		"awards": "partials/awards.hbs",
+		"interests": "partials/interests.hbs"
+	},
+	"css": [
+		"style.css"
+	]
+}
